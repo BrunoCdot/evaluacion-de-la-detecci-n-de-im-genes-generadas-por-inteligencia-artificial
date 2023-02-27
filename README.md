@@ -1,1 +1,1 @@
-# evaluacion-de-la-detecci-n-de-im-genes-generadas-por-inteligencia-artificial
+# evaluacion-de-la-deteccion-de-im-genes-generadas-por-inteligencia-artificial
